@@ -21,6 +21,7 @@
 -  Es requisito que el formulario de creación esté validado con JavaScript y no sólo con validaciones HTML.
 -  Para las funcionalidades de filtrado y ordenamiento **NO** puedeS utilizar los end-points de la API externa que ya devuelven los resultados filtrados u ordenados, sino que debes realizarlo tu mismo.
 -  Utilizar únicamente los end-points que están indicados en el [**README**](./README.md).
+0
 
 <br />
 
